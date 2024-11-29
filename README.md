@@ -8,11 +8,11 @@ This project is a simple yet powerful Virtual Store application built with **Rea
 
 ## Project Overview
 
-### Overview
+### overview
 
 ![Project OverView](./public/OverView.png)
 
-### Cart
+### Cart overview
 
 ![Cart OverView](./public/Cart.png)
 
